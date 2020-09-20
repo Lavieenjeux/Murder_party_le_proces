@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sons/Appels_pour_les_votes/10minavantvote.wav</file>
+        <file>Sons/Appels_pour_les_votes/15minavantvote.wav</file>
+        <file>Sons/Appels_pour_les_votes/20minavantvote.wav</file>
+        <file>Sons/Appels_pour_les_votes/4minpourvoter.wav</file>
+        <file>Sons/Appels_pour_les_votes/Appelvote.wav</file>
+        <file>Sons/Appels_pour_les_votes/Sonnerie.wav</file>
+        <file>Sons/Code_de_la_seconde_chance/Codesecondechancebonusage.wav</file>
+        <file>Sons/Code_de_la_seconde_chance/Codesecondechanceinutileusage.wav</file>
+        <file>Sons/Code_de_la_seconde_chance/Codesecondechancemauvaisusage.wav</file>
+        <file>Sons/Code_de_la_seconde_chance/Eliminecodesecondechance.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote1.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote2.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote3.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote4.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote5.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote6.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote7.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote8.wav</file>
+        <file>Sons/Deroulement_des_votes/Lancementvote9.wav</file>
+        <file>Sons/Deroulement_des_votes/Pasvotepluriel.wav</file>
+        <file>Sons/Deroulement_des_votes/Pasvotesingulier.wav</file>
+        <file>Sons/Deroulement_des_votes/Toutlemondeavote.wav</file>
+        <file>Sons/Deroulement_des_votes/Voteprisencompte.wav</file>
+        <file>Sons/Explications_generales/Jeumeurtrierconclusion.wav</file>
+        <file>Sons/Explications_generales/Jeumeurtrierintroduction.wav</file>
+        <file>Sons/Explications_generales/Presentationpremiervote.wav</file>
+        <file>Sons/Explications_generales/Presentationvotefinal.wav</file>
+        <file>Sons/Noms_d_animaux/Accusecafard.wav</file>
+        <file>Sons/Noms_d_animaux/Accusechacal.wav</file>
+        <file>Sons/Noms_d_animaux/Accusechien.wav</file>
+        <file>Sons/Noms_d_animaux/Accusecochon.wav</file>
+        <file>Sons/Noms_d_animaux/Accusehyene.wav</file>
+        <file>Sons/Noms_d_animaux/Accuserat.wav</file>
+        <file>Sons/Noms_d_animaux/Accuserequin.wav</file>
+        <file>Sons/Noms_d_animaux/Accuseserpent.wav</file>
+        <file>Sons/Noms_d_animaux/Accusevautour.wav</file>
+        <file>Sons/Resultats_des_votes/Annoncedeuxiemesauve.wav</file>
+        <file>Sons/Resultats_des_votes/Annoncepremiersauve.wav</file>
+        <file>Sons/Resultats_des_votes/Eliminederniervote.wav</file>
+        <file>Sons/Resultats_des_votes/Eliminevoteclassique.wav</file>
+        <file>Sons/Resultats_des_votes/Resultatvotefinal.wav</file>
+        <file>Sons/Explications_generales/Jingle.wav</file>
+        <file>Sons/Explications_generales/Jingleetmusique.wav</file>
+    </qresource>
+</RCC>

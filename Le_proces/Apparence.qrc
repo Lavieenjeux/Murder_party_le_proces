@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Apparence/Style.qss</file>
+        <file>Apparence/Xolonium-Bold.ttf</file>
+        <file>Apparence/Xolonium-Regular.ttf</file>
+        <file>Apparence/Fond.png</file>
+        <file>Apparence/Images du fond animé/Fond animé1.png</file>
+        <file>Apparence/Images du fond animé/Fond animé2.png</file>
+        <file>Apparence/Images du fond animé/Fond animé3.png</file>
+        <file>Apparence/Images du fond animé/Fond animé4.png</file>
+        <file>Apparence/Images du fond animé/Fond animé5.png</file>
+        <file>Apparence/Images du fond animé/Fond animé6.png</file>
+        <file>Apparence/Images du fond animé/Fond animé7.png</file>
+        <file>Apparence/Images du fond animé/Fond animé8.png</file>
+        <file>Apparence/Images du fond animé/Fond animé9.png</file>
+        <file>Apparence/Images du fond animé/Fond animé10.png</file>
+        <file>Apparence/Images du fond animé/Fond animé11.png</file>
+        <file>Apparence/Images du fond animé/Fond animé12.png</file>
+        <file>Apparence/Images du fond animé/Fond animé13.png</file>
+        <file>Apparence/Images du fond animé/Fond animé14.png</file>
+        <file>Apparence/Images du fond animé/Fond animé15.png</file>
+        <file>Apparence/Images du fond animé/Fond animé16.png</file>
+        <file>Apparence/Images du fond animé/Fond animé17.png</file>
+        <file>Apparence/Images du fond animé/Fond animé18.png</file>
+        <file>Apparence/Images du fond animé/Fond animé19.png</file>
+        <file>Apparence/Images du fond animé/Fond animé20.png</file>
+        <file>Apparence/Images du fond animé/Fond animé21.png</file>
+        <file>Apparence/Images du fond animé/Fond animé22.png</file>
+        <file>Apparence/Images du fond animé/Fond animé23.png</file>
+        <file>Apparence/Images du fond animé/Fond animé24.png</file>
+        <file>Apparence/Images du fond animé/Fond animé25.png</file>
+        <file>Apparence/Images du fond animé/Fond animé26.png</file>
+        <file>Apparence/Images du fond animé/Fond animé27.png</file>
+        <file>Apparence/Images du fond animé/Fond animé28.png</file>
+        <file>Apparence/Images du fond animé/Fond animé29.png</file>
+        <file>Apparence/Images du fond animé/Fond animé30.png</file>
+        <file>Apparence/Fleche.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,137 @@
+QMainWindow { 
+border-image: url(:/Apparence/Fond.png) 0 0 0 0 stretch stretch;
+}
+
+QDialog { 
+background-color : #e0e5ec;
+}
+
+QDialog QLabel
+{
+color : black;
+}
+
+QDialog QPushButton
+{
+color : black;
+border : 3px solid #93a8be;
+padding : 0px 8px;
+}
+
+QDialog QPushButton:hover {
+border : 3px solid #05a5a5;
+}
+
+QDialog QLineEdit{
+border: 3px solid #93a8be;
+background: white;
+color : black;
+outline: none;
+font-family : 'Xolonium';
+padding: 2px 0;
+}
+
+QLabel {
+color : #e0e5ec;
+font-family : 'Xolonium';
+}
+
+QLabel#label_vote_invalide {
+color : #fa7b0a;
+}
+
+QLabel#label_Accuse3 {
+color : #fa7b0a;
+}
+
+QLabel#label_presentateur {
+color : #05a5a5;
+}
+
+QLabel[style="labeldeplacable"] {
+border : 3px solid #93a8be;
+background-color : black;
+}
+
+QLabel[style="cadrevote"] {
+border : 3px solid #93a8be;
+background-color : black;
+}
+
+QLabel[style="cadrevoteEnterEvent"] {
+border : 3px solid #05a5a5;
+background-color : black;
+}
+
+QLabel[style="cadrevoteRempli"] {
+border : 3px solid #e0e5ec;
+background-color : black;
+}
+
+QPushButton {
+border : 5px solid #93a8be;
+background : transparent;
+color : #e0e5ec;
+font-family : 'Xolonium';
+padding : 0px 8px;
+}
+
+QPushButton:hover {
+border : 5px solid #05a5a5;
+}
+
+QPushButton[style="boutonvote"] {
+font-size : 30pt;
+}
+
+QPushButton[style="boutonvote"]:disabled {
+border-color : black;
+color : #273340;
+}
+
+QPushButton[style="boutonok"] {
+border : 3px solid #93a8be;
+padding : 0px 8px;
+}
+
+QPushButton[style="boutonok"]:hover {
+border : 3px solid #05a5a5;
+}
+
+QLCDNumber{
+color : #273340;
+}
+
+QLineEdit{
+border: 3px solid #93a8be;
+background: #0a0c0f;
+color : #e0e5ec;
+outline: none;
+font-family : 'Xolonium';
+padding: 2px 0;
+}
+
+QComboBox {
+border: 3px solid #93a8be;
+background: #0a0c0f;
+color : #e0e5ec;
+font-family : 'Xolonium';
+selection-background-color: #05a5a5;
+}
+
+QComboBox:disabled {
+border: 3px solid #93a8be;
+background: #e0e5ec;
+color : black;
+font-family : 'Xolonium';
+selection-background-color: #e0e5ec;
+}
+
+QComboBox::down-arrow:disabled{ 
+image: none; 
+}
+
+QComboBox QListView {
+background-color: #0a0c0f;
+color : #e0e5ec;
+}
